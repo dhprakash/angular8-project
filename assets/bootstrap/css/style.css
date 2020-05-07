@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-expand-sm .navbar-nav .nav-link {margin:0 20px;}
+
+#cityState {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%; margin-top:20px;
+  }
+  
+  #cityState td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #cityState tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #cityState tr:hover {background-color: #ddd;}
+  
+  #cityState th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {background-color:red; border-radius:5px;}
+
+
+
+
+#test {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%; margin-top:20px;
+}
+
+#test td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#test tr:nth-child(even){background-color: #f2f2f2;}
+
+#test tr:hover {background-color: #ddd;}
+
+#test th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+
